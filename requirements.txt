@@ -1,0 +1,4 @@
+Flask
+scikit-learn==0.24.1  # Specify a lighter version if compatible
+numpy
+gunicorn
